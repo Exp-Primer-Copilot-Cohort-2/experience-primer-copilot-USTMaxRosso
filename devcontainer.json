@@ -1,0 +1,11 @@
+{
+    // Primera prueba de devcontainer
+    "name": "Codespace for Skills!",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
